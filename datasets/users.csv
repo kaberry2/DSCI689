@@ -1,0 +1,53 @@
+id,first_name,last_name,password,email,is_deleted
+1,Steve,Jones,$2y$10$PLtXGqrwU9qvs0EZnb9kfuCpD/k2I3eBT7thYeqCi68nGkxvRqEke,test,1
+2,Jeff,Bezos,$2y$10$lZcbH.i8rTgx/c8by2X.0u9JtKMjchLx5zYI20jdd.oaSdOmaxwsS,test,1
+3,Laura,Thompson,$2y$10$g51qqeQ6rYifn.PZcYKm1.l6U2hysi9McVZQmJcNkOBRUDA5SxiTm,test,1
+4,John,Snow,$2y$10$q9/cru7EJ0CixP6Ym8hbO.N/J0L1wnLvb6lx5e9zkAM4A1VD6L6Aa,test,1
+5,Jason,Stathem,$2y$10$AA3fqH8KMRg5.OSwHYgYlucee/lXeJjEhSjIuFC4sDyqIyN3IB6Uq,test,1
+6,Bob,Marley,$2y$10$DS.CvOW/.hyEYHBGfRVgaunVvU04UMbZkYHno4125CspdU6YfNuq6,test,1
+7,Bruce,Piner,$2y$10$D105fq8zS1/yaOj4CyjQP.G2A3sH8rpb40nkTt0laiG9r8965KzCW,shuttle,0
+8,Michael,Clevenger,$2y$10$YNeJPppQ24FsuyufBJ4WS../q1Cfa9E2JX12bl548ubmFyofssInG,shuttle,1
+9,Darnette,Abrams,$2y$10$Xgj2tSqcMvx.QRJAKBJW6Ohf1r79GV8B8L2EiSVetci2FkbWCcz5K,shuttle,0
+10,Justin,Brown,$2y$10$vHMWt8PuRA48krEmBcMRBeyCImDTnkVTMmYzHERYcq2s34JeZdEFm,shuttle,1
+11,Tony,Buffin,$2y$10$OmNWRV1RrhqHEMHVDNSDveDAWaEtBwjP79.heoZr1Shj1sMmNyDHK,shuttle,1
+12,Micheal,Clevenger,$2y$10$D11nAoti1Hdg.BuwNlVqFef6ptULAmCILu.U1EnBwODvtUMMK/jDK,shuttle,0
+13,Tim,Crist,$2y$10$hZTlhHNr9LRchH.ipX.TZOGPxnNZIkDMstoDIk8Q3f8KepV/3BPkS,shuttle,0
+14,Steven,Crouse,$2y$10$B4OHwMEhf81.RpxwVVFYUe.AT0gdExrpMCAY/6tPV.XlRAg4BUuNu,shuttle,0
+15,Sam,Crum,$2y$10$SJRpDtu2Vqhhk58aasTF..DX6YZCob9NqJemB5NtxVx.KuDaHy6wG,shuttle,0
+16,Mike,Daugherty,$2y$10$QmF/R07zV229vVuZqz4QJ.pZR1ODvvw36kmFiIUafdPkNYiDKBrAu,shuttle,1
+17,Helen,Drumm,$2y$10$D2.yPlpPifRUZulT9GChS.1xT9AZ6VPn5iiMIz.dIyFxueFAQWAty,shuttle,0
+18,Larry,Emmons,$2y$10$WaKjbx3KLyLkA0TDdK3shOG0YNZOS6gAOG.CgQvM2oblUuQ75bONa,shuttle,1
+19,Jim,Gresh,$2y$10$4Qz5Lsg5H2oTQ37qV7Cj5.3xMjTELCyR22m8EMkqgboDx7re/8h7G,shuttle,0
+20,Mike,Hill,$2y$10$PRZ80wTVRly8rXBEBQwo6O.VGSN7R0QqBqm5v/YxoQbk3XRtVfw86,shuttle,0
+21,Collin,Host,$2y$10$BBi7n8FA4jtouPiCD0pQ9.jCPc3L488dTuFLE7iyiZkxhymllKlj6,shuttle,1
+22,Doug ,Jones,$2y$10$uiuaOg1y30uOIkaohrVMKODQsR9kFjGCpySdnF/NP2CNlidiQCEb2,shuttle,0
+23,Brian,Kemp,$2y$10$f.1aWfQ.6s7hm5eKwrNXNONsFlFk1jGFubaL4IDVYLcrJL9ZD1Msu,shuttle,0
+24,Kevin,Limle,$2y$10$4h4RqGw2rsLeKtktZmUrFeFjYyokRpTUxOX85skdcaoKf0Utuokie,shuttle,0
+25,Jody,Marriott,$2y$10$BtBeVWRGoXerdMnEk9UKsOykXpPuudgL1eGSZAX1AoowJyid0Yinm,shuttle,1
+26,Amanda,Maxwell,$2y$10$6uDXRnxDBVzXprrxwRgfnO4wp53NT.1rgc7sqQTirxN/0fsewHGo6,shuttle,0
+27,Brandon,Meuchel,$2y$10$fFytOemHjZ6ZhNMFCNciMeGChhKUfcrvNxlOcyXBNZZOjrdwcJuKe,shuttle,1
+28,David ,Moorehead,$2y$10$2Dkxf9fPXD0EI8lbLuJCOuO5TI6oFuviXG.XzJEUvjisUJl8b13MG,shuttle,0
+29,Brandon,Mundell,$2y$10$I0fn0dU82I3OnCiZaPLhEOy7lvxWNwjQZ9f2eVTvfMm8e2EZmYrUu,shuttle,0
+30,Ralph,Roberts,$2y$10$dMY7h8mTBdkTM/S.qB/j1ecmNEp/hlkOzkNW8jB2MajMXPYGZkT.K,shuttle,1
+31,Larry,Stevens,$2y$10$jymNNUD84q.d25yUc5GW4.LD6tTOzyXOQ72//po7c2dm0F5hn/1ne,shuttle,1
+32,Mike,Talhelm,$2y$10$xiHzpvyUg0jDCdV5VcwnceJRF6c8AgyNf92AseKse.lhwvLWY19R6,shuttle,0
+33,Anita,Wiemer,$2y$10$l6MDO5h5vrruodrAe4Q6kuNq0yJ9bpGb1agqWE/GRizqb692CoEOe,shuttle,0
+34,Robin,Starrett,$2y$10$4joNLcrst/2/8TMOjMBlJe6NehZBrZhylD.r1oStjmIOenD6M0y.e,shuttle,0
+35,Ed,Smith,$2y$10$tTxBhYV87mt13v4GT6Q8P.VAtSc1utOxzAlJw31bRbbWM9tL5lmSG,shuttle,0
+36,Kathy,Ice,$2y$10$WjjvjPxid0U4TKb1r3quNujBOkkIF836ueHbKx2lTFDrjBzkjO.Bi,KIce,0
+37,Sloan,Luebbert,$2y$10$oPvszQEu0Jmb2ukBw2E8S.8Ll1PgiRaAFItOS7y.umgc3xCnW3uQa,SLuebbert,1
+38,Mason,Barnett,$2y$10$3cL4FY9ig0cMlLn3i9ZZfOj07xgscKBnDVozGK0pUWIooPaIgverO,MBarnett,1
+39,Marcus,Lewis,$2y$10$nMeYbJGOtWIrLhMiiPTPA.xVwkmVeA2iMZzBDIIgHqB7ZSLnodyj2,MJennings,0
+42,Kenneth,Workman,$2y$10$TtBc7VX4gzRwK1dM/4xb4uGnJ34uMa6iAjuvDomVNuSPaNHSVuFeG,Kenneth,1
+43,Hannah,Patton,$2y$10$LkI04Hq3ZZbedP8zx7rBSODjw.qgurfWMBqKrSz71dJBC0ka5uczC,Hannah,1
+44,Lisa ,Huddleston,$2y$10$Qc5ZDWoLLNsVbp9Hi0S1vuG0OWJfDu6p8CSQQjT.JjIkaI5OzaLUW,Lisa ,0
+45,Deneme,Deneme,$2y$10$0PVTwQPSO9pHVlz6VlGkYOKOfJrHSg0ofXjosPIiD.1LfFaflmoW.,deneme,1
+46,John,Reynolds,$2y$10$0WtTQRZ7Rrm6BZDR568V..zxm4WXRyi8LBP7bsDwi8NLLwdk6cLdu,JReynolds,1
+47,Keith,Carroll,$2y$10$aId2RREX4kYtauurpzPdJ.RQiLFsswlzDKsgrP2WaculeXcVQ9PQ6,KCarroll,0
+48,Mark ,Kay,$2y$10$aKJN1NUJNXyngqNMOKRb3OKqC5JfGQDDp/nkyzgV4YznYMccfgcaq,Mark,0
+49,Amy,Crall,$2y$10$1zdiXGiPa3DKBRlNEcr4YuPoHHUcDCa.t5KPzZMyF.DH18UexMd5K,Amy,0
+50,Annette,Twilley,$2y$10$JY5lgp6efiXZ2KJScwv/NeAkKtrRj1lCymCBg63NT2N8yXPRxciNC,Annette,0
+51,Michael,Baker,$2y$10$H246K6.G4qkMRxFAmVob7e2NRl3GCG679hNTKsdVRiI2yVyZNGyVO,Michael,0
+52,Penny,Webster,$2y$10$d9L/wqgya59n/PjU0Pweee2HY59holc5GVnJDvZaGcoSPbv7USQOe,Penny,0
+53,Sharon,Dixon,$2y$10$.prWabFEPOABhFfVvVziwO66Wp92KGzmitbK/wvtJR.wD1SPSZCFu,sdixon@bsu.edu,0
+54,Larry,Emmons,$2y$10$5i.DFPp/KxCfI72L96bX4Op1jzOgljqLtpzB1BDu0pwJXEvxgDzWK,lemmons,0

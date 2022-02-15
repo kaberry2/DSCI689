@@ -1,0 +1,17 @@
+id,loop_name,is_deleted
+1,Green Loop,1
+2,Red Loop,1
+3,Test Loop,1
+4,asdf,1
+5,Test Loop,1
+6,Test Loop,1
+7,Test Loop,1
+8,Blue Loop,1
+9,Green Loop,0
+10,Red Loop,0
+11,Orange Loop,0
+12,Demand Response,0
+13,Blue Loop 2,1
+14,Sunday Orange,0
+15,Blue Loop,0
+16,Sunday Green,0
