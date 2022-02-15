@@ -1,5 +1,6 @@
 entries_loops['Semester']=np.where((entries_loops['Month'].isin(['December','Janaury','February'])), 'Winter',
                                     np.where((entries_loops['Month'].isin(['March','April','May'])), 'Spring',
                                               np.where((entries_loops['Month'].isin(['June','July','August'])),'Summer',
-                                              'Fall')))
+                                                       np.where((entries_loops['Month'].isin(['September','October','November'])),'Fall',
+                                                               'Other'))))
 entries_loops
