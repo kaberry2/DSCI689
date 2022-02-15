@@ -27,3 +27,17 @@
  - Kali O'Dell
 
 **Progress made:**
+ - Weather gathered via open weather API (Collin), Month converted to Season code (Kali), 
+
+**Points discussed/clarified:**
+ - Aggregate data based on day (date) and sum precipitation or snow fall
+ - Make assumption that if any percipitation = full day
+ - Provide summation of data points: percipiation, snow, temperature (MIN, MAX, AVG)
+ - Group Data by Date, Loop, then weather points
+   - Look at all data points at the same level
+
+**Next Steps**
+ - Aggregate Data:
+   - Weather by Day - Collin
+   - Loop by Day - Kali
+    - Include Month + Season
