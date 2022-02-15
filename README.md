@@ -17,3 +17,13 @@
    - Work out weather data - Collin
    - Data specific for seasons/semesters - Kali
    - Master Jupyter notebook compiled - Kimber
+
+# Meeting 2
+**The time of meeting: 2/15/22 - 1:30 PM**
+
+**People present:**
+ - Kimber Stancato
+ - Collin Hoskins
+ - Kali O'Dell
+
+**Progress made:**
