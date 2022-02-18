@@ -18,7 +18,7 @@
    - Data specific for seasons/semesters - Kali
    - Master Jupyter notebook compiled - Kimber
 
-# Meeting 2
+# Meeting 3
 **The time of meeting: 2/15/22 - 1:30 PM**
 
 **People present:**
