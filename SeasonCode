@@ -4,3 +4,12 @@ entries_loops['Semester']=np.where((entries_loops['Month'].isin(['December','Jan
                                                        np.where((entries_loops['Month'].isin(['September','October','November'])),'Fall',
                                                                'Other'))))
 entries_loops
+
+
+entries_loops['Date']=pd.to_datetime(entries_loops['Date'])
+
+entries_loops['Season']=np.where((entries_loops['Date']>='3/20/2021') & (entries_loops['Date']<='6/19/2021'), 'Spring',
+                                np.where((entries_loops['Date']>='6/20/2021') & (entries_loops['Date']<='9/21/2021'), 'Summer',
+                                        np.where((entries_loops['Date']>='9/22/2021') & (entries_loops['Date']<='12/20/2021'), 'Fall',
+                                                         'Winter')))
+entries_loops
